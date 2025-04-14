@@ -1,20 +1,7 @@
 ---
-title: "Plano de Desenvolvimento (PDi) - Marketing Mix Model (Robyn)"
+tittle: "Marketing Mix Model (Robyn)"
 author: "Álvaro Henrique D. da Trindade"
-date: "`r Sys.Date()`"
-output:
-  rmdformats::downcute:
-    self_contained: true
-    default_style: "light"
-    downcute_theme: "default"
----
 
-```{r setup, include=FALSE}
-## Global options
-knitr::opts_chunk$set(cache = TRUE)
-```
-
-## <img src="C:\Users\alvaro.trindade_ghfl\Downloads\logo_ghfly.png" alt="drawing" width="200"/>
 
 # Introdução
 
