@@ -274,12 +274,3 @@ print(AllocatorCollect3)
 #plot(AllocatorCollect3)
 ```
 
-# 5- Resultados finais
-
-## Diagnóstico geral
-
-![](robyn_mmm/Robyn_202406100118_init/1_451_2.png)
-
-## Alocação de budget (Forecast)
-
-![](robyn_mmm/Robyn_202406072036_init/1_451_2_reallocated_best_roas.png)
